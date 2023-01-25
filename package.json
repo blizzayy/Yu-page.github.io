@@ -1,0 +1,26 @@
+{
+  "name": "yu-page",
+  "version": "1.0.0",
+  "description": "my page test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blizzayy/Yu-page.git"
+  },
+  "keywords": [
+    "personal",
+    "homepage"
+  ],
+  "author": "Yu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blizzayy/Yu-page/issues"
+  },
+  "homepage": "https://github.com/blizzayy/Yu-page#readme",
+  "dependencies": {
+    "three": "^0.148.0"
+  }
+}
